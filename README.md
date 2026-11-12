@@ -1,3 +1,5 @@
+> **Unique:** Flagship pip-installable Python SDK unifying ASR and TTS behind one API, with a remote model catalog (YAML manifests, gated HuggingFace models, auto-download), CLI, and cloud-API backend pattern.
+
 # RevoSpeech
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
